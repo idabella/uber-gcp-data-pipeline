@@ -11,7 +11,6 @@ The **Uber Data Pipeline** project provides a streamlined workflow to **ingest**
 
 ## 🧱 Architecture Overview
 
-![Data Schema](images/shema.png)
 
 The pipeline is structured into three core layers:
 
