@@ -1,0 +1,25 @@
+# Installation des dépendances Python sur Windows
+
+# Vérifier Python et pip
+python --version
+pip --version
+
+# Mettre à jour pip
+python -m pip install --upgrade pip
+
+# Installer Mage
+pip install mage-ai
+
+# Installer Pandas
+pip install pandas
+
+# Installer Google Cloud
+pip install google-cloud
+
+# Installer Google Cloud BigQuery
+pip install google-cloud-bigquery
+
+# Vérification des installations
+python -c "import pandas; print(pandas.__version__)"
+python -c "import mage_ai; print('Mage OK')"
+python -c "from google.cloud import bigquery; print('BigQuery OK')"
