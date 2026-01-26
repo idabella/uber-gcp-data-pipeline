@@ -1,10 +1,6 @@
 # Uber Data Analytics | Modern Data Engineering on GCP
 
-A comprehensive end-to-end data engineering project demonstrating modern ETL practices using Uber trip data, cloud infrastructure, and advanced analytics tools.
-
-## 📊 Project Overview
-
-This project showcases a complete data engineering pipeline that ingests, transforms, and analyzes Uber trip data using industry-standard tools and Google Cloud Platform services. The pipeline enables scalable data processing and interactive visualization for business intelligence insights.
+<br>
 
 ## 🏗️ Architecture
 
